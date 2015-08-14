@@ -1,0 +1,36 @@
+body
+{
+	background-image: url("todo.jpg");
+}
+
+#todoh1
+{
+	text-align: center;
+	font-style: italic;
+	font-family: sans-serif;
+	float: left;
+	margin-left: 500px;
+	padding-right: 50px;
+}
+
+#todo
+{
+    padding-left: 150px;
+    
+    
+}
+
+#todo1
+{
+    padding-left: 150px;
+    background: rgba(255,255,255,0.7);
+    padding-bottom: 200px;
+    
+}
+
+#para{
+	
+	width: 1027px;
+text-align: center;
+font-weight: 70px;
+}
