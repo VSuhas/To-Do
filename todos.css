@@ -34,3 +34,9 @@ body
 text-align: center;
 font-weight: 70px;
 }
+
+.done{
+	text-decoration: line-through;color:red;
+	font-weight: bold;
+	text-transform: uppercase;
+}
