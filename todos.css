@@ -35,6 +35,8 @@ text-align: center;
 font-weight: 70px;
 }
 
+/*styling for done*/
+
 .done{
 	text-decoration: line-through;color:red;
 	font-weight: bold;
